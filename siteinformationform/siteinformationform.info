@@ -1,0 +1,4 @@
+name = siteinformationform
+description =  Alter the existing Drupal "Site Information" form - add another field called API Key
+core = 7.x
+project = "siteinformationform" 	
